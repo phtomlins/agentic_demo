@@ -1,0 +1,10 @@
+# Agentic Demo - Requirements
+# No external dependencies required for basic demo
+# Optional: Install these for enhanced functionality
+
+# For future LLM integration (optional)
+# openai>=1.0.0
+# langchain>=0.1.0
+
+# For testing (optional)
+# pytest>=7.0.0
