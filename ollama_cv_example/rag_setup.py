@@ -1,3 +1,6 @@
+# Setup the vector database for RAG using Ollama embeddings and ChromaDB.
+# This update creates different vector databases depending on the type of data.
+
 import os
 import sys
 import glob
